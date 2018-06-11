@@ -24,6 +24,6 @@ An autohotkey script for Quick chat lines in Overwatch.
 
 `$[key]::teamChat("[text]")`
 
-* Replace [key] with the desired key [reference](https://autohotkey.com/docs/KeyList.htm)
+* Replace [key] with the desired key ( [reference](https://autohotkey.com/docs/KeyList.htm) )
 
 * Replace [text] with the desired text
