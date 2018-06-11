@@ -16,11 +16,14 @@ An autohotkey script for Quick chat lines in Overwatch.
 * Numpad 5: (team chat)  My barrier is at 25%
 
 ## adding chat lines
-for match chat add:
-$[key]::matchChat("[text]")
+* For match chat add:
 
-for team chat add:
-$[key]::teamChat("[text]")
+`$[key]::matchChat("[text]")`
 
-Replace [key] with the desired key [reference](https://autohotkey.com/docs/KeyList.htm)
-Replace [text] with the desired text
+* For team chat add:
+
+`$[key]::teamChat("[text]")`
+
+* Replace [key] with the desired key [reference](https://autohotkey.com/docs/KeyList.htm)
+
+* Replace [text] with the desired text
